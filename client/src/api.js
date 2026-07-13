@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/contact";
+const API_URL = "https://portfolio-1070.onrender.com/api/contact";
 
 export async function sendContact(formData) {
   const response = await fetch(API_URL, {
