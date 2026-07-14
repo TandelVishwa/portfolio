@@ -1,6 +1,6 @@
 import travelImage from "../assets/images/travel.jpg";
 import headphoneImage from "../assets/images/headphone.jpg";
-import calculatorImage from "../assets/images/calculator.jpg";
+import calculatorImage from "../assets/images/CloudWeatherOps.png";
 
 const projects = [
   {
@@ -25,13 +25,13 @@ const projects = [
   },
   {
     id: 3,
-    title: "SI Calculator",
+    title: "CloudWeatherOps",
     description:
-      "A simple interest calculator built using the MERN stack with MongoDB integration.",
-    tech: ["MongoDB", "Express", "React", "Node.js"],
-    github: "https://github.com/TandelVishwa/si-calculator.git",
+      "CloudWeatherOps – A cloud-native weather application built with React, Docker, GitHub Actions, and Kubernetes.",
+    tech: ["Docker", "Kubernets", "React", "GitActions"],
+    github: "https://github.com/TandelVishwa/CloudWeatherOps.git",
     live: "",
-    image: calculatorImage,
+    image: CloudWeatherOpsImage,
   },
 ];
 
