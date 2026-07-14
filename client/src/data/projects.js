@@ -1,6 +1,6 @@
 import travelImage from "../assets/images/travel.jpg";
 import headphoneImage from "../assets/images/headphone.jpg";
-import calculatorImage from "../assets/images/CloudWeatherOps.png";
+import CloudWeatherOpsImage from "../assets/images/CloudWeatherOps.png";
 
 const projects = [
   {
@@ -28,7 +28,7 @@ const projects = [
     title: "CloudWeatherOps",
     description:
       "CloudWeatherOps – A cloud-native weather application built with React, Docker, GitHub Actions, and Kubernetes.",
-    tech: ["Docker", "Kubernets", "React", "GitActions"],
+    tech: ["React", "Docker", "Kubernetes", "GitHub Actions"],
     github: "https://github.com/TandelVishwa/CloudWeatherOps.git",
     live: "",
     image: CloudWeatherOpsImage,
